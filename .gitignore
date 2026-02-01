@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+*.ipa
+*.dSYM
+
+# macOS
+.DS_Store
+*.swp
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+
+# Temporary files
+*.log
+*.tmp
+
+# Screenshot tool (separate)
+screenshot
+screenshot.m

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>MyTerminal</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.fangqingyuan.myterminal</string>
+    <key>CFBundleName</key>
+    <string>MyTerminal</string>
+    <key>CFBundleDisplayName</key>
+    <string>MyTerminal</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>MinimumOSVersion</key>
+    <string>13.0</string>
+    <key>UIDeviceFamily</key>
+    <array>
+        <integer>1</integer>
+        <integer>2</integer>
+    </array>
+    <key>UIAppFonts</key>
+    <array>
+        <string>Fonts/MesloLGS NF Regular.ttf</string>
+        <string>Fonts/MesloLGS NF Bold.ttf</string>
+    </array>
+</dict>
+</plist>
